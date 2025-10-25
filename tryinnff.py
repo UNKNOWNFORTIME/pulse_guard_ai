@@ -4,7 +4,6 @@ import pandas as pd
 # Load the trained model
 model = joblib.load("transformer_failure_model.pkl")
 
-<<<<<<< HEAD
 # Load the new dataset
 new_data = pd.read_csv(r"C:\Users\SEAN\Downloads\Dataset_Year_2020_Iworkdone2.csv")
 
