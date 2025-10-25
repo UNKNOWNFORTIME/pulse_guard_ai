@@ -1,7 +1,4 @@
-flask
-joblib
-scikit-learn
-numpy
+streamlit
 pandas
-Gunicorn
-
+scikit-learn
+plotly
